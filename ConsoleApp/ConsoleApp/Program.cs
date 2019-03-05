@@ -5,7 +5,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-    
+            System.Console.WriteLine("print");
         }
     }
 }
